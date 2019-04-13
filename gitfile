@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 git initiated
 ready to commit
 this line is to test git diff cmd and git staged cmd
 just small adding on 12 April 2019
+=======
+this is to test the git diff command and checkout option
+unix user update
+added something from unix os
+>>>>>>> 5ca4d218fb1abb0270d98eca6a1e023f7c0a8516
